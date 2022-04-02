@@ -1,4 +1,2 @@
 <?php
-
-echo "auto epic sajapp";
-echo "epic coding";
+include "include/header.php";
