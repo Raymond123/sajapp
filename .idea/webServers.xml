@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4625bb82-ec45-4168-a0a1-ca5a208a3a42" name="sajapp" url="http://178.128.236.142/">
+        <fileTransfer rootFolder="/var" accessType="SFTP" host="178.128.236.142" port="22" sshConfigId="2bdb2ab6-a72a-4117-9de3-463496fe3c7a" sshConfig="root@178.128.236.142:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
